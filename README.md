@@ -1,16 +1,6 @@
 # mi_card_flutter
 
-A new Flutter project.
+This is a simple flutter project to display a personal business card.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app's display effect is shown in the figure below.
+![mi_card_flutter](https://zheyu-notepic.oss-cn-beijing.aliyuncs.com/Upside/Flutter%20Card%20%26%20ListTile%20Widgets.png)
